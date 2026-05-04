@@ -1,1 +1,1 @@
-# Bu-geld-Rechner
+https://rp-ist-geil.github.io/Bussgeld-Rechner/
